@@ -1,4 +1,3 @@
-//
 //  list.c
 //  COEN_Lab10
 
