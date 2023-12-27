@@ -1,8 +1,4 @@
-//
-//  files.c
-//  COEN_Lab10
-//
-//  Created by OG Bobby  on 6/4/22.
+//Norwood
 //
 
 #include "global_defs.h"
