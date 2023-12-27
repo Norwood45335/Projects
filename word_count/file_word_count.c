@@ -1,5 +1,5 @@
 //Norwood
-#the program counts number of words in file
+//the program counts number of words in file
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
