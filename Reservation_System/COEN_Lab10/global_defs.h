@@ -1,9 +1,4 @@
-//
-//  global_defs.h
-//  COEN_Lab10
-//
-//  Created by OG Bobby  on 6/4/22.
-//
+//Norwood
 
 #ifndef global_defs_h
 #define global_defs_h
