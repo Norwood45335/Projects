@@ -1,6 +1,4 @@
-//  list.c
-//  COEN_Lab10
-
+// Norwood
 #include "global_defs.h"
 
 
