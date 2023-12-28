@@ -10,7 +10,6 @@ int main (int argc, char *argv[]){
     FILE *fp;
     fp=fopen(argv[1],"r");
     while(fscanf(fp,"%s",word) != EOF){
-    
 	counter++;
     }
     fclose(fp);    
