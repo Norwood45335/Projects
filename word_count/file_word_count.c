@@ -1,5 +1,5 @@
 //Norwood
-#the program counts number of words in file
+//counts number of words in file
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
@@ -10,7 +10,6 @@ int main (int argc, char *argv[]){
     FILE *fp;
     fp=fopen(argv[1],"r");
     while(fscanf(fp,"%s",word) != EOF){
-    
 	counter++;
     }
     fclose(fp);    
